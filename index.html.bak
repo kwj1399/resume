@@ -178,12 +178,12 @@
                         </li>
                         <li>
                             <div class="circle"></div>
-                            <h4>其他</h4>
+                            <h4>分布式存储</h4>
                             <p>了解分布式存储/文件系统,熟悉Ceph整体设计架构以及与OpenStack集成</p>
                         </li>
                         <li>
                             <div class="circle"></div>
-                            <h4>分布式存储</h4>
+                            <h4>其他</h4>
                             <p>了解基本的网络知识,熟悉OpenFlow协议和SDN架构,有基于开源控制器Ryu的设计和开发能力</p>	  
 														<p>熟悉KVM/Xen虚拟化技术</p>
 														<p>理解Nginx/Apache常用的Web-Server的工作原理</p>
